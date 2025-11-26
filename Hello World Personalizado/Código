@@ -1,0 +1,20 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        
+        Console.Write("Olá! Posso saber seu nome? ");
+
+       
+        string nome = Console.ReadLine();
+
+        
+        Console.WriteLine($"Muito bem-vindo(a) ao meu projeto de 30 dias, {nome}!");
+
+        
+        Console.WriteLine("\nAperte Enter para sair!");
+        Console.ReadLine();
+    }
+}
