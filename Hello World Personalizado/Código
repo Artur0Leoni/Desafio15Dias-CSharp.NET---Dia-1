@@ -11,7 +11,7 @@ class Program
         string nome = Console.ReadLine();
 
         
-        Console.WriteLine($"Muito bem-vindo(a) ao meu projeto de 30 dias, {nome}!");
+        Console.WriteLine($"Muito bem-vindo(a) ao meu projeto de 15 dias, {nome}!");
 
         
         Console.WriteLine("\nAperte Enter para sair!");
